@@ -105,7 +105,7 @@ uWSGI==2.0.14
 ubuntu-dev-tools===0.155-ubuntu3.2
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.18.1
+urllib3==1.26.5
 virtualenv==15.0.3
 wadllib==1.3.2
 wheel==0.26.0
