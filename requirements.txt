@@ -61,7 +61,7 @@ leveldb==0.1
 libtribler==6.5.2
 livestreamer==1.12.2
 lockfile==0.10.2
-lxml==3.4.4
+lxml==4.6.5
 meld==3.14.0
 mercurial==3.4
 ndg-httpsclient==0.4.0
