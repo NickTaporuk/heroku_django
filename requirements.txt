@@ -7,7 +7,7 @@ PyJWT==1.4.2
 Routes==2.2
 SOAPpy==0.12.22
 SecretStorage==2.1.2
-Twisted==15.2.1
+Twisted==22.4.0
 Twisted-Conch==15.2.1
 Twisted-Core==15.2.1
 Twisted-Lore==15.2.1
